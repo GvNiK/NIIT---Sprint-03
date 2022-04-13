@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: d1e05f629da352049afbeb0549cb93ba
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -7471923975500835814
+    second: Small_Turn_R_45
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Turn_R_45' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Alien2_Spine_01SHJnt' has translation animation
+      that will be discarded.\n\t'Alien2_Spine_02SHJnt' has translation animation
+      that will be discarded.\n\t'Alien2_Spine_TopSHJnt' has translation animation
+      that will be discarded.\n\t'Alien2_l_Arm_ClavicleSHJnt' has translation animation
+      that will be discarded.\n\t'Alien2_r_Arm_ClavicleSHJnt' has translation animation
+      that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Small_Turn_R_45
+      takeName: Turn_R_45
+      internalID: 0
+      firstFrame: 305
+      lastFrame: 335
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.6066841
+        functionName: ReceiveAnimationEvent
+        data: Footstep
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.97857744
+        functionName: ReceiveAnimationEvent
+        data: Footstep
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 304.8
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Alien2_ROOTSHJnt
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Leg_HipSHJnt
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Leg_HipSHJnt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Leg_KneeSHJnt
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Leg_KneeSHJnt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Leg_AnkleSHJnt
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Leg_AnkleSHJnt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_Spine_01SHJnt
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_Spine_TopSHJnt
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Arm_ClavicleSHJnt
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Arm_ClavicleSHJnt
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Arm_ShoulderSHJnt
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Arm_ShoulderSHJnt
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Arm_ElbowSHJnt
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Arm_ElbowSHJnt
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Arm_WristSHJnt
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Arm_WristSHJnt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Leg_BallSHJnt
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Leg_BallSHJnt
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Thumb_01_01SHJnt
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Thumb_01_02SHJnt
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Thumb_01_03SHJnt
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Fingers_01_01SHJnt
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Fingers_01_02SHJnt
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Fingers_01_03SHJnt
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Fingers_02_01SHJnt
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Fingers_02_02SHJnt
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Fingers_02_03SHJnt
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Fingers_03_01SHJnt
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Fingers_03_02SHJnt
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_l_Fingers_03_03SHJnt
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Thumb_01_01SHJnt
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Thumb_01_02SHJnt
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Thumb_01_03SHJnt
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Fingers_01_01SHJnt
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Fingers_01_02SHJnt
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Fingers_01_03SHJnt
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Fingers_02_01SHJnt
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Fingers_02_02SHJnt
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Fingers_02_03SHJnt
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Fingers_03_01SHJnt
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Fingers_03_02SHJnt
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_r_Fingers_03_03SHJnt
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien2_Spine_02SHJnt
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Alien_Short(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2
+      parentName: Alien_Short(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_SHJntGrp
+      parentName: Alien2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_ROOTSHJnt
+      parentName: Alien2_SHJntGrp
+      position: {x: 0, y: 0.7542211, z: 0}
+      rotation: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Leg_HipSHJnt
+      parentName: Alien2_ROOTSHJnt
+      position: {x: 0.09596959, y: -0.037949875, z: -0.12654512}
+      rotation: {x: -0.028655231, y: -0.71666527, z: 0.6966845, w: 0.014162138}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Alien2_l_Leg_KneeSHJnt
+      parentName: Alien2_l_Leg_HipSHJnt
+      position: {x: -0.30877888, y: -8.8817837e-17, z: 1.5987211e-16}
+      rotation: {x: -0, y: -0.14994836, z: -0.000000037951395, w: 0.9886939}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Alien2_l_Leg_AnkleSHJnt
+      parentName: Alien2_l_Leg_KneeSHJnt
+      position: {x: -0.21410398, y: -1.438849e-15, z: 8.437695e-17}
+      rotation: {x: 0.012432111, y: 0.11992259, z: -0.012250839, w: 0.9926298}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Alien2_l_Leg_BallSHJnt
+      parentName: Alien2_l_Leg_AnkleSHJnt
+      position: {x: -0.123049535, y: 1.2434498e-16, z: 0.11814333}
+      rotation: {x: 1.2266349e-16, y: 0.7071068, z: 1.2266349e-16, w: 0.7071068}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: Alien2_l_Leg_ToeSHJnt
+      parentName: Alien2_l_Leg_BallSHJnt
+      position: {x: -0.13659863, y: 1.7763568e-17, z: -4.170511e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_r_Leg_HipSHJnt
+      parentName: Alien2_ROOTSHJnt
+      position: {x: 0.09596959, y: -0.037949875, z: 0.12654512}
+      rotation: {x: -0.7166653, y: 0.02865518, z: -0.014162183, w: 0.6966845}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Alien2_r_Leg_KneeSHJnt
+      parentName: Alien2_r_Leg_HipSHJnt
+      position: {x: 0.30877888, y: 3.0198067e-16, z: -9.947598e-16}
+      rotation: {x: 0.0000000037252903, y: -0.14994839, z: 0.000000059604645, w: 0.9886939}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Alien2_r_Leg_AnkleSHJnt
+      parentName: Alien2_r_Leg_KneeSHJnt
+      position: {x: 0.21410398, y: 1.563194e-15, z: 3.9968027e-17}
+      rotation: {x: -0.012432119, y: -0.119922616, z: 0.012250839, w: -0.9926298}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Alien2_r_Leg_BallSHJnt
+      parentName: Alien2_r_Leg_AnkleSHJnt
+      position: {x: 0.123049535, y: -8.8817837e-17, z: -0.11814333}
+      rotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: Alien2_r_Leg_ToeSHJnt
+      parentName: Alien2_r_Leg_BallSHJnt
+      position: {x: 0.13659863, y: 1.7763568e-17, z: 5.56773e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_Spine_01SHJnt
+      parentName: Alien2_ROOTSHJnt
+      position: {x: -0.1816336, y: -0.015689125, z: 3.469447e-20}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_Spine_02SHJnt
+      parentName: Alien2_Spine_01SHJnt
+      position: {x: -0.17343804, y: 0.033784, z: -0.0037391079}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_Spine_TopSHJnt
+      parentName: Alien2_Spine_02SHJnt
+      position: {x: -0.18982916, y: -0.018094871, z: 0.0037391079}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_Head_TopSHJnt
+      parentName: Alien2_Spine_TopSHJnt
+      position: {x: -0.56443614, y: -0.19985984, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: helmet
+      parentName: Alien2_Head_TopSHJnt
+      position: {x: 0.3112955, y: 0.14398666, z: -0.062300276}
+      rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: visor
+      parentName: helmet
+      position: {x: 0.002223339, y: 0, z: 0.008734054}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Arm_ClavicleSHJnt
+      parentName: Alien2_Spine_02SHJnt
+      position: {x: -0.13392267, y: -0.07580587, z: -0.031209359}
+      rotation: {x: 0.49257508, y: -0.493086, z: 0.5073234, w: 0.5068126}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Arm_ShoulderSHJnt
+      parentName: Alien2_l_Arm_ClavicleSHJnt
+      position: {x: -0.20171195, y: 0.0027202086, z: -0.07580587}
+      rotation: {x: 0.012375802, y: -0.04835397, z: 0.021798402, w: 0.9985157}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Arm_ElbowSHJnt
+      parentName: Alien2_l_Arm_ShoulderSHJnt
+      position: {x: -0.21527404, y: 1.7053025e-15, z: -1.7763568e-17}
+      rotation: {x: -0.0013105599, y: 0.07185724, z: -0.011607127, w: 0.9973466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Arm_WristSHJnt
+      parentName: Alien2_l_Arm_ElbowSHJnt
+      position: {x: -0.28533667, y: 7.105427e-16, z: 3.5527136e-17}
+      rotation: {x: -0.008573492, y: -0.04859973, z: -0.032933377, w: 0.99823844}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Alien2_l_Fingers_01_01SHJnt
+      parentName: Alien2_l_Arm_WristSHJnt
+      position: {x: -0.15809862, y: -1.4210854e-16, z: 0.05377217}
+      rotation: {x: -0, y: -0, z: -1.2037062e-31, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Fingers_01_02SHJnt
+      parentName: Alien2_l_Fingers_01_01SHJnt
+      position: {x: -0.08996259, y: -1.4210854e-16, z: 4.4408918e-17}
+      rotation: {x: 0.00000005681065, y: 0.00000024214376, z: 0.03902227, w: 0.9992383}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Alien2_l_Fingers_01_03SHJnt
+      parentName: Alien2_l_Fingers_01_02SHJnt
+      position: {x: -0.062046155, y: -2.842171e-16, z: -4.440892e-18}
+      rotation: {x: 0.00000001740665, y: 0.000000031691375, z: 0.0411677, w: 0.99915224}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Fingers_01_04SHJnt
+      parentName: Alien2_l_Fingers_01_03SHJnt
+      position: {x: -0.08040535, y: 0, z: 4.440892e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Fingers_02_01SHJnt
+      parentName: Alien2_l_Arm_WristSHJnt
+      position: {x: -0.16524673, y: -1.4210854e-16, z: -0.029293632}
+      rotation: {x: -0, y: -0, z: -1.2037062e-31, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Fingers_02_02SHJnt
+      parentName: Alien2_l_Fingers_02_01SHJnt
+      position: {x: -0.10107806, y: -7.105427e-16, z: 8.881784e-18}
+      rotation: {x: -0.000000038184222, y: -0.00000013411044, z: 0.038361203, w: 0.999264}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Alien2_l_Fingers_02_03SHJnt
+      parentName: Alien2_l_Fingers_02_02SHJnt
+      position: {x: -0.07196021, y: 2.842171e-16, z: 7.105427e-17}
+      rotation: {x: 0.000000054058386, y: 0.00000000748319, z: 0.039765514, w: 0.9992091}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Fingers_02_04SHJnt
+      parentName: Alien2_l_Fingers_02_03SHJnt
+      position: {x: -0.0862544, y: -1.4210854e-15, z: -7.9936054e-17}
+      rotation: {x: -0, y: -0, z: -2.1445416e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Fingers_03_01SHJnt
+      parentName: Alien2_l_Arm_WristSHJnt
+      position: {x: -0.14958288, y: 6.6020787e-12, z: -0.11300185}
+      rotation: {x: 1.3492163e-17, y: 6.870121e-16, z: 0.01944429, w: 0.99981093}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Fingers_03_02SHJnt
+      parentName: Alien2_l_Fingers_03_01SHJnt
+      position: {x: -0.08601925, y: -1.1368684e-15, z: 0}
+      rotation: {x: -0.000000008959799, y: -0.000000029633693, z: 0.040869847, w: 0.9991645}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Alien2_l_Fingers_03_03SHJnt
+      parentName: Alien2_l_Fingers_03_02SHJnt
+      position: {x: -0.063513935, y: 5.684342e-16, z: -2.1316282e-16}
+      rotation: {x: -0.00000004198351, y: 0.000000058168027, z: 0.038867727, w: 0.99924433}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: Alien2_l_Fingers_03_04SHJnt
+      parentName: Alien2_l_Fingers_03_03SHJnt
+      position: {x: -0.08286713, y: 5.684342e-16, z: 1.0658141e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Thumb_01_01SHJnt
+      parentName: Alien2_l_Arm_WristSHJnt
+      position: {x: -0.046061423, y: -0.02106517, z: 0.06524224}
+      rotation: {x: 0.45804688, y: 0.2976214, z: -0.15820286, w: 0.82254875}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000007}
+    - name: Alien2_l_Thumb_01_02SHJnt
+      parentName: Alien2_l_Thumb_01_01SHJnt
+      position: {x: -0.06766577, y: -0.0014752597, z: 0.010955107}
+      rotation: {x: -0.0021553033, y: 0.044758588, z: 0.028403154, w: 0.99859166}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.9999998}
+    - name: Alien2_l_Thumb_01_03SHJnt
+      parentName: Alien2_l_Thumb_01_02SHJnt
+      position: {x: -0.09934927, y: 0.00012501903, z: -0.000005395998}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_l_Thumb_01_04SHJnt
+      parentName: Alien2_l_Thumb_01_03SHJnt
+      position: {x: -0.09596959, y: -1.0658141e-16, z: 5.684342e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_r_Arm_ClavicleSHJnt
+      parentName: Alien2_Spine_02SHJnt
+      position: {x: -0.13392267, y: -0.07580587, z: 0.031209359}
+      rotation: {x: 0.49308598, y: 0.4925751, z: 0.5068125, w: -0.50732344}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_r_Arm_ShoulderSHJnt
+      parentName: Alien2_r_Arm_ClavicleSHJnt
+      position: {x: 0.20171195, y: -0.0027202086, z: 0.07580587}
+      rotation: {x: 0.012375755, y: -0.048353784, z: 0.021798221, w: 0.99851567}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: Alien2_r_Arm_ElbowSHJnt
+      parentName: Alien2_r_Arm_ShoulderSHJnt
+      position: {x: 0.21527404, y: 9.947598e-16, z: -2.0428103e-16}
+      rotation: {x: -0.0013105525, y: 0.07185718, z: -0.011607065, w: 0.9973466}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: Alien2_r_Arm_WristSHJnt
+      parentName: Alien2_r_Arm_ElbowSHJnt
+      position: {x: 0.28533667, y: 1.4210854e-16, z: -3.907985e-16}
+      rotation: {x: -0.008573492, y: -0.04859973, z: -0.032933377, w: 0.99823844}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: gun1
+      parentName: Alien2_r_Arm_WristSHJnt
+      position: {x: 0.19171026, y: 0.08297525, z: 0.0016610693}
+      rotation: {x: 0.51551956, y: -0.49573594, z: 0.5179101, w: -0.4693129}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_r_Fingers_01_01SHJnt
+      parentName: Alien2_r_Arm_WristSHJnt
+      position: {x: 0.15809862, y: -4.2632563e-16, z: -0.05377217}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_r_Fingers_01_02SHJnt
+      parentName: Alien2_r_Fingers_01_01SHJnt
+      position: {x: 0.08996259, y: 5.684342e-16, z: 0}
+      rotation: {x: -0.000000023283059, y: 0.00000016018744, z: 0.03902301, w: 0.9992384}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Alien2_r_Fingers_01_03SHJnt
+      parentName: Alien2_r_Fingers_01_02SHJnt
+      position: {x: 0.062046155, y: 0, z: 1.3322676e-17}
+      rotation: {x: -0.000000016179754, y: -0.00000003001644, z: 0.041167054, w: 0.9991523}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Alien2_r_Fingers_01_04SHJnt
+      parentName: Alien2_r_Fingers_01_03SHJnt
+      position: {x: 0.08040535, y: 1.1368684e-15, z: 8.881784e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_r_Fingers_02_01SHJnt
+      parentName: Alien2_r_Arm_WristSHJnt
+      position: {x: 0.16524673, y: -4.2632563e-16, z: 0.029293632}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_r_Fingers_02_02SHJnt
+      parentName: Alien2_r_Fingers_02_01SHJnt
+      position: {x: 0.10107806, y: 1.4210854e-16, z: -8.881784e-18}
+      rotation: {x: -0.00000006053597, y: -0.000000346452, z: 0.038361125, w: 0.999264}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: Alien2_r_Fingers_02_03SHJnt
+      parentName: Alien2_r_Fingers_02_02SHJnt
+      position: {x: 0.07196021, y: 1.4210854e-15, z: 2.6645352e-17}
+      rotation: {x: 0.0000000113118075, y: 0.0000001795563, z: 0.03976477, w: 0.99920917}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: Alien2_r_Fingers_02_04SHJnt
+      parentName: Alien2_r_Fingers_02_03SHJnt
+      position: {x: 0.0862544, y: 1.1368684e-15, z: 3.5527136e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_r_Fingers_03_01SHJnt
+      parentName: Alien2_r_Arm_WristSHJnt
+      position: {x: 0.14958288, y: -6.602505e-12, z: 0.11300185}
+      rotation: {x: 1.00211965e-16, y: 6.9207166e-16, z: 0.01944429, w: 0.99981093}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: Alien2_r_Fingers_03_02SHJnt
+      parentName: Alien2_r_Fingers_03_01SHJnt
+      position: {x: 0.08601925, y: -1.4210854e-16, z: 5.3290704e-17}
+      rotation: {x: 0.000000058093246, y: 0.000000017500176, z: 0.04087005, w: 0.9991645}
+      scale: {x: 1.0000001, y: 0.99999934, z: 0.9999991}
+    - name: Alien2_r_Fingers_03_03SHJnt
+      parentName: Alien2_r_Fingers_03_02SHJnt
+      position: {x: 0.063513935, y: 8.5265126e-16, z: 1.2434498e-16}
+      rotation: {x: -0.0000000389567, y: -0.00000018572055, z: 0.038867284, w: 0.99924445}
+      scale: {x: 0.9999999, y: 1.0000008, z: 1.0000007}
+    - name: Alien2_r_Fingers_03_04SHJnt
+      parentName: Alien2_r_Fingers_03_03SHJnt
+      position: {x: 0.08286713, y: 1.7053025e-15, z: -1.2434498e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_r_Thumb_01_01SHJnt
+      parentName: Alien2_r_Arm_WristSHJnt
+      position: {x: 0.046061423, y: 0.02106517, z: -0.06524224}
+      rotation: {x: -0.4580463, y: -0.29762074, z: 0.15820384, w: -0.82254905}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000005}
+    - name: Alien2_r_Thumb_01_02SHJnt
+      parentName: Alien2_r_Thumb_01_01SHJnt
+      position: {x: 0.06766577, y: 0.0014752597, z: -0.010955107}
+      rotation: {x: -0.0021552448, y: 0.044758864, z: 0.028402602, w: 0.99859166}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000002}
+    - name: Alien2_r_Thumb_01_03SHJnt
+      parentName: Alien2_r_Thumb_01_02SHJnt
+      position: {x: 0.09934927, y: -0.00012501903, z: 0.000005395998}
+      rotation: {x: -0, y: -0, z: 0.0000000074505797, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien2_r_Thumb_01_04SHJnt
+      parentName: Alien2_r_Thumb_01_03SHJnt
+      position: {x: 0.09596959, y: 4.2632563e-16, z: 1.7053025e-15}
+      rotation: {x: -0, y: -0, z: 0.0000000074505797, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Blendshapes1
+      parentName: Alien_Short(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Geom
+      parentName: Alien_Short(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: Geom
+      position: {x: -0.007624757, y: 0.19992225, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arms
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

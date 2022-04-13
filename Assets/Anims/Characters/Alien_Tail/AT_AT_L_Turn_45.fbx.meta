@@ -1,0 +1,1195 @@
+fileFormatVersion: 2
+guid: e4973fce3bfdf75409611182e09c5de8
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -1298059653623225588
+    second: AT_L_Turn_45
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AT_L_Turn_45
+      takeName: AT_L_Turn_45
+      internalID: 0
+      firstFrame: 405
+      lastFrame: 430
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.4598422
+        functionName: ReceiveAnimationEvent
+        data: Footstep
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.85511774
+        functionName: ReceiveAnimationEvent
+        data: Footstep
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AlienTail
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_l_Leg_HipSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_l_Leg_HipSHJnt/AlienTail_l_Leg_KneeSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_l_Leg_HipSHJnt/AlienTail_l_Leg_KneeSHJnt/AlienTail_l_Leg_AnkleSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_l_Leg_HipSHJnt/AlienTail_l_Leg_KneeSHJnt/AlienTail_l_Leg_AnkleSHJnt/AlienTail_l_Leg_BallSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_l_Leg_HipSHJnt/AlienTail_l_Leg_KneeSHJnt/AlienTail_l_Leg_AnkleSHJnt/AlienTail_l_Leg_BallSHJnt/AlienTail_l_Leg_ToeSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_r_Leg_HipSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_r_Leg_HipSHJnt/AlienTail_r_Leg_KneeSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_r_Leg_HipSHJnt/AlienTail_r_Leg_KneeSHJnt/AlienTail_r_Leg_AnkleSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_r_Leg_HipSHJnt/AlienTail_r_Leg_KneeSHJnt/AlienTail_r_Leg_AnkleSHJnt/AlienTail_r_Leg_BallSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_r_Leg_HipSHJnt/AlienTail_r_Leg_KneeSHJnt/AlienTail_r_Leg_AnkleSHJnt/AlienTail_r_Leg_BallSHJnt/AlienTail_r_Leg_ToeSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_01_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_01_01SHJnt/AlienTail_l_Finger_01_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_01_01SHJnt/AlienTail_l_Finger_01_02SHJnt/AlienTail_l_Finger_01_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_01_01SHJnt/AlienTail_l_Finger_01_02SHJnt/AlienTail_l_Finger_01_03SHJnt/AlienTail_l_Finger_01_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_02_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_02_01SHJnt/AlienTail_l_Finger_02_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_02_01SHJnt/AlienTail_l_Finger_02_02SHJnt/AlienTail_l_Finger_02_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_02_01SHJnt/AlienTail_l_Finger_02_02SHJnt/AlienTail_l_Finger_02_03SHJnt/AlienTail_l_Finger_02_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_03_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_03_01SHJnt/AlienTail_l_Finger_03_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_03_01SHJnt/AlienTail_l_Finger_03_02SHJnt/AlienTail_l_Finger_03_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_03_01SHJnt/AlienTail_l_Finger_03_02SHJnt/AlienTail_l_Finger_03_03SHJnt/AlienTail_l_Finger_03_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_04_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_04_01SHJnt/AlienTail_l_Finger_04_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_04_01SHJnt/AlienTail_l_Finger_04_02SHJnt/AlienTail_l_Finger_04_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Finger_04_01SHJnt/AlienTail_l_Finger_04_02SHJnt/AlienTail_l_Finger_04_03SHJnt/AlienTail_l_Finger_04_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Thumb_01_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Thumb_01_01SHJnt/AlienTail_l_Thumb_01_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Thumb_01_01SHJnt/AlienTail_l_Thumb_01_02SHJnt/AlienTail_l_Thumb_01_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_l_Arm_ClavicleSHJnt/AlienTail_l_Arm_ShoulderSHJnt/AlienTail_l_Arm_ElbowSHJnt/AlienTail_l_Arm_WristSHJnt/AlienTail_l_Thumb_01_01SHJnt/AlienTail_l_Thumb_01_02SHJnt/AlienTail_l_Thumb_01_03SHJnt/AlienTail_l_Thumb_01_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_01_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_01_01SHJnt/AlienTail_r_Finger_01_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_01_01SHJnt/AlienTail_r_Finger_01_02SHJnt/AlienTail_r_Finger_01_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_01_01SHJnt/AlienTail_r_Finger_01_02SHJnt/AlienTail_r_Finger_01_03SHJnt/AlienTail_r_Finger_01_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_02_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_02_01SHJnt/AlienTail_r_Finger_02_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_02_01SHJnt/AlienTail_r_Finger_02_02SHJnt/AlienTail_r_Finger_02_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_02_01SHJnt/AlienTail_r_Finger_02_02SHJnt/AlienTail_r_Finger_02_03SHJnt/AlienTail_r_Finger_02_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_03_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_03_01SHJnt/AlienTail_r_Finger_03_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_03_01SHJnt/AlienTail_r_Finger_03_02SHJnt/AlienTail_r_Finger_03_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_03_01SHJnt/AlienTail_r_Finger_03_02SHJnt/AlienTail_r_Finger_03_03SHJnt/AlienTail_r_Finger_03_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_04_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_04_01SHJnt/AlienTail_r_Finger_04_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_04_01SHJnt/AlienTail_r_Finger_04_02SHJnt/AlienTail_r_Finger_04_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Finger_04_01SHJnt/AlienTail_r_Finger_04_02SHJnt/AlienTail_r_Finger_04_03SHJnt/AlienTail_r_Finger_04_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Thumb_01_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Thumb_01_01SHJnt/AlienTail_r_Thumb_01_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Thumb_01_01SHJnt/AlienTail_r_Thumb_01_02SHJnt/AlienTail_r_Thumb_01_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/AlienTail_r_Thumb_01_01SHJnt/AlienTail_r_Thumb_01_02SHJnt/AlienTail_r_Thumb_01_03SHJnt/AlienTail_r_Thumb_01_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/polySurface4
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/polySurface4/Blue
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/polySurface4/Pink
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/polySurface4/polySurface2
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_r_Arm_ClavicleSHJnt/AlienTail_r_Arm_ShoulderSHJnt/AlienTail_r_Arm_ElbowSHJnt/AlienTail_r_Arm_WristSHJnt/polySurface4/Yellow
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Spine_TopSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Spine_TopSHJnt/AlienTail_Neck_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Spine_TopSHJnt/AlienTail_Neck_01SHJnt/AlienTail_Neck_TopSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Spine_TopSHJnt/AlienTail_Neck_01SHJnt/AlienTail_Neck_TopSHJnt/AlienTail_Head_TopSHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Tail_01_01SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Tail_01_01SHJnt/AlienTail_Tail_01_02SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Tail_01_01SHJnt/AlienTail_Tail_01_02SHJnt/AlienTail_Tail_01_03SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Tail_01_01SHJnt/AlienTail_Tail_01_02SHJnt/AlienTail_Tail_01_03SHJnt/AlienTail_Tail_01_04SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Tail_01_01SHJnt/AlienTail_Tail_01_02SHJnt/AlienTail_Tail_01_03SHJnt/AlienTail_Tail_01_04SHJnt/AlienTail_Tail_01_05SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Tail_01_01SHJnt/AlienTail_Tail_01_02SHJnt/AlienTail_Tail_01_03SHJnt/AlienTail_Tail_01_04SHJnt/AlienTail_Tail_01_05SHJnt/AlienTail_Tail_01_06SHJnt
+        weight: 1
+      - path: AlienTail/AlienTail_SHJntGrp/AlienTail_ROOTSHJnt/AlienTail_Spine_01SHJnt/AlienTail_Spine_02SHJnt/AlienTail_Tail_01_01SHJnt/AlienTail_Tail_01_02SHJnt/AlienTail_Tail_01_03SHJnt/AlienTail_Tail_01_04SHJnt/AlienTail_Tail_01_05SHJnt/AlienTail_Tail_01_06SHJnt/AlienTail_Tail_01_07SHJnt
+        weight: 1
+      - path: Geom
+        weight: 1
+      - path: Geom/Face_Geom
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 404.88
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: AlienTail_ROOTSHJnt
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Leg_HipSHJnt
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Leg_HipSHJnt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Leg_KneeSHJnt
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Leg_KneeSHJnt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Leg_AnkleSHJnt
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Leg_AnkleSHJnt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_Spine_01SHJnt
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_Spine_02SHJnt
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_Spine_TopSHJnt
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_Neck_TopSHJnt
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Arm_ClavicleSHJnt
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Arm_ClavicleSHJnt
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Arm_ShoulderSHJnt
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Arm_ShoulderSHJnt
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Arm_ElbowSHJnt
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Arm_ElbowSHJnt
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Arm_WristSHJnt
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Arm_WristSHJnt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Leg_BallSHJnt
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Leg_BallSHJnt
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Thumb_01_01SHJnt
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Thumb_01_02SHJnt
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Thumb_01_03SHJnt
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_01_01SHJnt
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_01_02SHJnt
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_01_03SHJnt
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_02_01SHJnt
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_02_02SHJnt
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_02_03SHJnt
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_03_01SHJnt
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_03_02SHJnt
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_03_03SHJnt
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_04_01SHJnt
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_04_02SHJnt
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_l_Finger_04_03SHJnt
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Thumb_01_01SHJnt
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Thumb_01_02SHJnt
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Thumb_01_03SHJnt
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_01_01SHJnt
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_01_02SHJnt
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_01_03SHJnt
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_02_01SHJnt
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_02_02SHJnt
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_02_03SHJnt
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_03_01SHJnt
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_03_02SHJnt
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_03_03SHJnt
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_04_01SHJnt
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_04_02SHJnt
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AlienTail_r_Finger_04_03SHJnt
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Alien_Tail(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail
+      parentName: Alien_Tail(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_SHJntGrp
+      parentName: AlienTail
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_ROOTSHJnt
+      parentName: AlienTail_SHJntGrp
+      position: {x: 0, y: 0.9647265, z: 0}
+      rotation: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Leg_HipSHJnt
+      parentName: AlienTail_ROOTSHJnt
+      position: {x: 0.052415956, y: 6.216658e-19, z: -0.09861276}
+      rotation: {x: -0.018624585, y: 0.7293032, z: -0.6839371, w: 0.00030143716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Leg_KneeSHJnt
+      parentName: AlienTail_l_Leg_HipSHJnt
+      position: {x: -0.42652968, y: -5.3290704e-17, z: 2.2426505e-16}
+      rotation: {x: 0, y: -0.07809875, z: -0, w: 0.9969456}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Leg_AnkleSHJnt
+      parentName: AlienTail_l_Leg_KneeSHJnt
+      position: {x: -0.38743448, y: 3.0198067e-16, z: -5.3290704e-17}
+      rotation: {x: 0.03299252, y: 0.09138199, z: 0.010411336, w: 0.99521476}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Leg_BallSHJnt
+      parentName: AlienTail_l_Leg_AnkleSHJnt
+      position: {x: -0.078623936, y: -6.707591e-11, z: 0.13055538}
+      rotation: {x: -0.000000039759122, y: 0.707105, z: 0.000000039639932, w: 0.7071086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Leg_ToeSHJnt
+      parentName: AlienTail_l_Leg_BallSHJnt
+      position: {x: -0.078623936, y: -0.000000014621581, z: 0.00000081104116}
+      rotation: {x: -4.795873e-13, y: 0.0000051577244, z: 0.00000009298428, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Leg_HipSHJnt
+      parentName: AlienTail_ROOTSHJnt
+      position: {x: 0.052415956, y: -2.7863918e-18, z: 0.09861276}
+      rotation: {x: -0.7293032, y: -0.0186246, z: 0.00030145378, w: 0.6839371}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Leg_KneeSHJnt
+      parentName: AlienTail_r_Leg_HipSHJnt
+      position: {x: 0.42652968, y: 1.2434498e-16, z: -1.5499269e-12}
+      rotation: {x: 0, y: -0.07809871, z: -0, w: 0.9969456}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Leg_AnkleSHJnt
+      parentName: AlienTail_r_Leg_KneeSHJnt
+      position: {x: 0.38743448, y: 1.7763567e-16, z: -1.4092371e-12}
+      rotation: {x: 0.03299252, y: 0.091381975, z: 0.010411337, w: 0.99521476}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Leg_BallSHJnt
+      parentName: AlienTail_r_Leg_AnkleSHJnt
+      position: {x: 0.078623936, y: 2.2330582e-13, z: -0.13055538}
+      rotation: {x: -0.0000000396273, y: 0.707105, z: 0.00000003962611, w: 0.7071086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Leg_ToeSHJnt
+      parentName: AlienTail_r_Leg_BallSHJnt
+      position: {x: 0.078623936, y: 0.000000014632792, z: -0.0000008103942}
+      rotation: {x: -4.7957217e-13, y: 0.00000515361, z: 0.000000093055576, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Spine_01SHJnt
+      parentName: AlienTail_ROOTSHJnt
+      position: {x: -0.12247654, y: -0.0005148489, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Spine_02SHJnt
+      parentName: AlienTail_Spine_01SHJnt
+      position: {x: -0.10819156, y: 0.026044637, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Arm_ClavicleSHJnt
+      parentName: AlienTail_Spine_02SHJnt
+      position: {x: -0.12294937, y: 5.4316807e-10, z: -0.033172973}
+      rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Arm_ShoulderSHJnt
+      parentName: AlienTail_l_Arm_ClavicleSHJnt
+      position: {x: -0.11799708, y: -2.842171e-16, z: -8.881784e-18}
+      rotation: {x: -0, y: -0.04006888, z: -0, w: 0.99919695}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Arm_ElbowSHJnt
+      parentName: AlienTail_l_Arm_ShoulderSHJnt
+      position: {x: -0.20662616, y: -2.8421708e-15, z: 4.440892e-18}
+      rotation: {x: -0, y: 0.0794749, z: -0, w: 0.9968369}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Arm_WristSHJnt
+      parentName: AlienTail_l_Arm_ElbowSHJnt
+      position: {x: -0.2819726, y: 2.8421708e-15, z: 1.5987211e-16}
+      rotation: {x: 0, y: -0.05200336, z: -0, w: 0.9986469}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_01_01SHJnt
+      parentName: AlienTail_l_Arm_WristSHJnt
+      position: {x: -0.17532498, y: -0.000789699, z: 0.058314275}
+      rotation: {x: -0.00073217653, y: 0.007778537, z: 0.07067683, w: 0.99746865}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_01_02SHJnt
+      parentName: AlienTail_l_Finger_01_01SHJnt
+      position: {x: -0.056573372, y: -0.0004874529, z: -8.881784e-18}
+      rotation: {x: 0.0000000088475645, y: 0.000000010244548, z: 0.041473564, w: 0.9991396}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_01_03SHJnt
+      parentName: AlienTail_l_Finger_01_02SHJnt
+      position: {x: -0.03483384, y: 1.9895197e-15, z: 2.2204459e-17}
+      rotation: {x: -0.000000036332047, y: 0.00000045438878, z: 0.036950447, w: 0.9993171}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_01_04SHJnt
+      parentName: AlienTail_l_Finger_01_03SHJnt
+      position: {x: -0.048214912, y: -1.9895197e-15, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0.13239716, w: 0.99119675}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_02_01SHJnt
+      parentName: AlienTail_l_Arm_WristSHJnt
+      position: {x: -0.17154336, y: -0.000789699, z: 0.016044343}
+      rotation: {x: -0.0005251933, y: 0.006146472, z: 0.07428035, w: 0.9972184}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_02_02SHJnt
+      parentName: AlienTail_l_Finger_02_01SHJnt
+      position: {x: -0.05810527, y: -2.2737367e-15, z: 7.771561e-18}
+      rotation: {x: -0.0000000036670826, y: 0.0000001671724, z: 0.02871033, w: 0.99958783}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_02_03SHJnt
+      parentName: AlienTail_l_Finger_02_02SHJnt
+      position: {x: -0.044425253, y: -0.000799868, z: 1.6653344e-17}
+      rotation: {x: -0.000000033789473, y: -0.00000022547417, z: 0.020206755, w: 0.99979585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_02_04SHJnt
+      parentName: AlienTail_l_Finger_02_03SHJnt
+      position: {x: -0.065463215, y: -0.0034200698, z: -1.11022296e-17}
+      rotation: {x: 0, y: 0, z: 0.108684555, w: 0.9940763}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_03_01SHJnt
+      parentName: AlienTail_l_Arm_WristSHJnt
+      position: {x: -0.16398014, y: -0.000789699, z: -0.02506202}
+      rotation: {x: -0.00052520516, y: 0.006146297, z: 0.0742806, w: 0.9972183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_03_02SHJnt
+      parentName: AlienTail_l_Finger_03_01SHJnt
+      position: {x: -0.051414732, y: -1.1368684e-15, z: -4.4408918e-17}
+      rotation: {x: 0.000000026077032, y: 0.00000024633482, z: 0.039358992, w: 0.99922514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_03_03SHJnt
+      parentName: AlienTail_l_Finger_03_02SHJnt
+      position: {x: -0.043851517, y: 1.7053025e-15, z: -2.6645352e-17}
+      rotation: {x: 0.000000019251999, y: -0.0000000019268216, z: 0.023944953, w: 0.9997133}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_03_04SHJnt
+      parentName: AlienTail_l_Finger_03_03SHJnt
+      position: {x: -0.05883522, y: -0.0017281718, z: 8.8817837e-17}
+      rotation: {x: 0, y: 0, z: 0.085138276, w: 0.9963692}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_04_01SHJnt
+      parentName: AlienTail_l_Arm_WristSHJnt
+      position: {x: -0.15554425, y: -0.000789699, z: -0.056278028}
+      rotation: {x: -0.00052517303, y: 0.006146271, z: 0.07428077, w: 0.9972183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_04_02SHJnt
+      parentName: AlienTail_l_Finger_04_01SHJnt
+      position: {x: -0.035997413, y: 2.842171e-16, z: 1.7763568e-17}
+      rotation: {x: 0.000000040279698, y: 0.0000001778826, z: 0.023072368, w: 0.9997338}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_04_03SHJnt
+      parentName: AlienTail_l_Finger_04_02SHJnt
+      position: {x: -0.04817157, y: -0.0014948895, z: -1.0658141e-16}
+      rotation: {x: 0.000000008898833, y: 0.00000008522138, z: 0.05563208, w: 0.99845135}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Finger_04_04SHJnt
+      parentName: AlienTail_l_Finger_04_03SHJnt
+      position: {x: -0.048214912, y: 5.684342e-16, z: 0}
+      rotation: {x: 0, y: 0, z: 0.085138276, w: 0.9963692}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Thumb_01_01SHJnt
+      parentName: AlienTail_l_Arm_WristSHJnt
+      position: {x: -0.045190733, y: -0.013835874, z: 0.06487727}
+      rotation: {x: 0.039392434, y: 0.48119622, z: 0.037589304, w: 0.8749203}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Thumb_01_02SHJnt
+      parentName: AlienTail_l_Thumb_01_01SHJnt
+      position: {x: -0.034121744, y: -5.684342e-16, z: -4.2632563e-16}
+      rotation: {x: 0.00089113775, y: -0.002590209, z: 0.037823174, w: 0.9992807}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Thumb_01_03SHJnt
+      parentName: AlienTail_l_Thumb_01_02SHJnt
+      position: {x: -0.021950852, y: -1.4210854e-15, z: 9.237055e-16}
+      rotation: {x: 0.001995287, y: -0.0048916633, z: 0.037104193, w: 0.99929744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_l_Thumb_01_04SHJnt
+      parentName: AlienTail_l_Thumb_01_03SHJnt
+      position: {x: -0.05180402, y: -1.2789769e-15, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Arm_ClavicleSHJnt
+      parentName: AlienTail_Spine_02SHJnt
+      position: {x: -0.12294937, y: 5.431681e-10, z: 0.033172973}
+      rotation: {x: 0.5, y: 0.5, z: 0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Arm_ShoulderSHJnt
+      parentName: AlienTail_r_Arm_ClavicleSHJnt
+      position: {x: 0.11799708, y: 2.842171e-16, z: 0}
+      rotation: {x: -0, y: -0.040068924, z: -0, w: 0.99919695}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Arm_ElbowSHJnt
+      parentName: AlienTail_r_Arm_ShoulderSHJnt
+      position: {x: 0.20662616, y: 2.8421708e-15, z: -1.3322676e-17}
+      rotation: {x: -0, y: 0.079475015, z: -0, w: 0.9968369}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Arm_WristSHJnt
+      parentName: AlienTail_r_Arm_ElbowSHJnt
+      position: {x: 0.2819726, y: -2.8421708e-15, z: 1.9539925e-16}
+      rotation: {x: 0, y: -0.052003358, z: -0, w: 0.9986469}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_01_01SHJnt
+      parentName: AlienTail_r_Arm_WristSHJnt
+      position: {x: 0.17532498, y: 0.000789699, z: -0.058314275}
+      rotation: {x: -0.0007321806, y: 0.0077784685, z: 0.07067681, w: 0.9974687}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_01_02SHJnt
+      parentName: AlienTail_r_Finger_01_01SHJnt
+      position: {x: 0.056573372, y: 0.0004874529, z: -4.440892e-18}
+      rotation: {x: -0.000000022235323, y: 0.00000037066633, z: 0.041474536, w: 0.9991396}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_01_03SHJnt
+      parentName: AlienTail_r_Finger_01_02SHJnt
+      position: {x: 0.03483384, y: -2.842171e-16, z: 1.7763568e-17}
+      rotation: {x: 0.000000036671313, y: -0.0000009416726, z: 0.03695124, w: 0.99931705}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_01_04SHJnt
+      parentName: AlienTail_r_Finger_01_03SHJnt
+      position: {x: 0.048214912, y: 8.5265126e-16, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0.13239716, w: 0.99119675}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_02_01SHJnt
+      parentName: AlienTail_r_Arm_WristSHJnt
+      position: {x: 0.17154336, y: 0.000789699, z: -0.016044343}
+      rotation: {x: -0.00052524405, y: 0.0061465604, z: 0.074280284, w: 0.9972183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_02_02SHJnt
+      parentName: AlienTail_r_Finger_02_01SHJnt
+      position: {x: 0.05810527, y: 1.1368684e-15, z: -1.11022296e-17}
+      rotation: {x: 0.0000000075087865, y: -0.00000029616052, z: 0.028710993, w: 0.99958783}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_02_03SHJnt
+      parentName: AlienTail_r_Finger_02_02SHJnt
+      position: {x: 0.044425253, y: 0.000799868, z: -1.8873792e-17}
+      rotation: {x: -0.000000007204919, y: 0.00000015496151, z: 0.020206396, w: 0.99979585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_02_04SHJnt
+      parentName: AlienTail_r_Finger_02_03SHJnt
+      position: {x: 0.065463215, y: 0.0034200698, z: 3.330669e-18}
+      rotation: {x: 0, y: 0, z: 0.108684555, w: 0.9940763}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_03_01SHJnt
+      parentName: AlienTail_r_Arm_WristSHJnt
+      position: {x: 0.16398014, y: 0.000789699, z: 0.02506202}
+      rotation: {x: -0.0005251188, y: 0.0061462102, z: 0.07428073, w: 0.9972183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_03_02SHJnt
+      parentName: AlienTail_r_Finger_03_01SHJnt
+      position: {x: 0.051414732, y: -5.684342e-16, z: 4.4408918e-17}
+      rotation: {x: -0.000000006461051, y: -0.00000012060629, z: 0.039358087, w: 0.9992252}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_03_03SHJnt
+      parentName: AlienTail_r_Finger_03_02SHJnt
+      position: {x: 0.043851517, y: -1.7053025e-15, z: 8.881784e-18}
+      rotation: {x: -0.000000035182758, y: 0.0000003511792, z: 0.02394268, w: 0.99971336}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_03_04SHJnt
+      parentName: AlienTail_r_Finger_03_03SHJnt
+      position: {x: 0.05883522, y: 0.0017281718, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0.085138276, w: 0.9963692}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_04_01SHJnt
+      parentName: AlienTail_r_Arm_WristSHJnt
+      position: {x: 0.15554425, y: 0.000789699, z: 0.056278028}
+      rotation: {x: -0.0005250994, y: 0.006145495, z: 0.07428228, w: 0.99721825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_04_02SHJnt
+      parentName: AlienTail_r_Finger_04_01SHJnt
+      position: {x: 0.035997413, y: -5.684342e-16, z: -1.7763568e-17}
+      rotation: {x: -0.000000021595035, y: -0.00000032316882, z: 0.023070706, w: 0.99973387}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_04_03SHJnt
+      parentName: AlienTail_r_Finger_04_02SHJnt
+      position: {x: 0.04817157, y: 0.0014948895, z: 1.4210854e-16}
+      rotation: {x: 0.000000048637222, y: 0.00000042150555, z: 0.055632032, w: 0.9984514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Finger_04_04SHJnt
+      parentName: AlienTail_r_Finger_04_03SHJnt
+      position: {x: 0.048214912, y: 1.1368684e-15, z: -8.8817837e-17}
+      rotation: {x: 0, y: 0, z: 0.085138276, w: 0.9963692}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Thumb_01_01SHJnt
+      parentName: AlienTail_r_Arm_WristSHJnt
+      position: {x: 0.045190733, y: 0.013835874, z: -0.06487727}
+      rotation: {x: 0.039392438, y: 0.48119643, z: 0.03758936, w: 0.8749202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Thumb_01_02SHJnt
+      parentName: AlienTail_r_Thumb_01_01SHJnt
+      position: {x: 0.034121744, y: -8.5265126e-16, z: -1.4210854e-16}
+      rotation: {x: 0.0008911565, y: -0.002590239, z: 0.037823115, w: 0.99928075}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Thumb_01_03SHJnt
+      parentName: AlienTail_r_Thumb_01_02SHJnt
+      position: {x: 0.021950852, y: 1.1368684e-15, z: 5.684342e-16}
+      rotation: {x: 0.0019952697, y: -0.0048921085, z: 0.037103757, w: 0.99929744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_r_Thumb_01_04SHJnt
+      parentName: AlienTail_r_Thumb_01_03SHJnt
+      position: {x: 0.05180402, y: -2.842171e-16, z: 4.973799e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface4
+      parentName: AlienTail_r_Arm_WristSHJnt
+      position: {x: 0.056223657, y: 0.010799482, z: -0.004788984}
+      rotation: {x: 0.51500976, y: -0.48452547, z: 0.51500976, w: -0.48452547}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Blue
+      parentName: polySurface4
+      position: {x: -0.16881067, y: 0.32213435, z: 0.08194775}
+      rotation: {x: 0.07966638, y: -0, z: -0, w: 0.99682164}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pink
+      parentName: polySurface4
+      position: {x: 0.0959592, y: 0.25674936, z: 0.04710408}
+      rotation: {x: 0.13836138, y: -0, z: -0, w: 0.99038184}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2
+      parentName: polySurface4
+      position: {x: -0.027640626, y: 0.28724506, z: 0.11353436}
+      rotation: {x: -0.48452547, y: -0.51500976, z: -0.48452547, w: 0.51500976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yellow
+      parentName: polySurface4
+      position: {x: 0.111960106, y: 0.29103848, z: 0.16894269}
+      rotation: {x: 0.111076154, y: -0, z: -0, w: 0.9938119}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Spine_TopSHJnt
+      parentName: AlienTail_Spine_02SHJnt
+      position: {x: -0.13676152, y: 0.012764896, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Neck_01SHJnt
+      parentName: AlienTail_Spine_TopSHJnt
+      position: {x: -0.055491526, y: -4.440892e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Neck_TopSHJnt
+      parentName: AlienTail_Neck_01SHJnt
+      position: {x: -0.055491522, y: -4.440892e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Head_TopSHJnt
+      parentName: AlienTail_Neck_TopSHJnt
+      position: {x: -0.41193897, y: 8.881784e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Tail_01_01SHJnt
+      parentName: AlienTail_Spine_02SHJnt
+      position: {x: -0.08211226, y: 0.1656696, z: -2.8302316e-32}
+      rotation: {x: -0.7071068, y: 0.7071068, z: 4.3297806e-17, w: -4.3297806e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Tail_01_02SHJnt
+      parentName: AlienTail_Tail_01_01SHJnt
+      position: {x: -0.12941861, y: 2.131628e-15, z: 6.310887e-32}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Tail_01_03SHJnt
+      parentName: AlienTail_Tail_01_02SHJnt
+      position: {x: -0.16084838, y: 3.694822e-15, z: 5.364254e-31}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Tail_01_04SHJnt
+      parentName: AlienTail_Tail_01_03SHJnt
+      position: {x: -0.15610352, y: 1.7053025e-15, z: -3.9443045e-30}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Tail_01_05SHJnt
+      parentName: AlienTail_Tail_01_04SHJnt
+      position: {x: -0.13759847, y: 1.563194e-15, z: 2.745236e-30}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Tail_01_06SHJnt
+      parentName: AlienTail_Tail_01_05SHJnt
+      position: {x: -0.13597564, y: 2.4158453e-15, z: 1.2621774e-31}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AlienTail_Tail_01_07SHJnt
+      parentName: AlienTail_Tail_01_06SHJnt
+      position: {x: -0.13524917, y: 1.7053025e-15, z: -2.745236e-30}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Blendshapes
+      parentName: Alien_Tail(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Geom
+      parentName: Alien_Tail(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.157324, y: 1.157324, z: 1.157324}
+    - name: Body_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Face_Geom
+      parentName: Geom
+      position: {x: -0, y: 1.355932, z: -0.008906098}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HelmetGeom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hip_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Arm_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Foot_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Leg_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Arm_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Foot_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Leg_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Visor_Geom
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

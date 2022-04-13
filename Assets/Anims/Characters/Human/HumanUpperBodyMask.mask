@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HumanUpperBodyMask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Geom1
+    m_Weight: 1
+  - m_Path: Geom1/C_head
+    m_Weight: 1
+  - m_Path: Geom1/C_head/C_Brows
+    m_Weight: 1
+  - m_Path: Human
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_l_Leg_HipSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_l_Leg_HipSHJnt/Human_l_Leg_KneeSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_l_Leg_HipSHJnt/Human_l_Leg_KneeSHJnt/Human_l_Leg_AnkleSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_l_Leg_HipSHJnt/Human_l_Leg_KneeSHJnt/Human_l_Leg_AnkleSHJnt/Human_l_Leg_BallSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_l_Leg_HipSHJnt/Human_l_Leg_KneeSHJnt/Human_l_Leg_AnkleSHJnt/Human_l_Leg_BallSHJnt/Human_l_Leg_ToeSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_r_Leg_HipSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_r_Leg_HipSHJnt/Human_r_Leg_KneeSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_r_Leg_HipSHJnt/Human_r_Leg_KneeSHJnt/Human_r_Leg_AnkleSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_r_Leg_HipSHJnt/Human_r_Leg_KneeSHJnt/Human_r_Leg_AnkleSHJnt/Human_r_Leg_BallSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_r_Leg_HipSHJnt/Human_r_Leg_KneeSHJnt/Human_r_Leg_AnkleSHJnt/Human_r_Leg_BallSHJnt/Human_r_Leg_ToeSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/C_Button_04
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/C_Glass
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/C_Rockets1
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_01_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_01_01SHJnt/Human_l_Fingers_01_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_01_01SHJnt/Human_l_Fingers_01_02SHJnt/Human_l_Fingers_01_03SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_01_01SHJnt/Human_l_Fingers_01_02SHJnt/Human_l_Fingers_01_03SHJnt/Human_l_Fingers_01_04SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_02_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_02_01SHJnt/Human_l_Fingers_02_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_02_01SHJnt/Human_l_Fingers_02_02SHJnt/Human_l_Fingers_02_03SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_02_01SHJnt/Human_l_Fingers_02_02SHJnt/Human_l_Fingers_02_03SHJnt/Human_l_Fingers_02_04SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_03_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_03_01SHJnt/Human_l_Fingers_03_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_03_01SHJnt/Human_l_Fingers_03_02SHJnt/Human_l_Fingers_03_03SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_03_01SHJnt/Human_l_Fingers_03_02SHJnt/Human_l_Fingers_03_03SHJnt/Human_l_Fingers_03_04SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_04_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_04_01SHJnt/Human_l_Fingers_04_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_04_01SHJnt/Human_l_Fingers_04_02SHJnt/Human_l_Fingers_04_03SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Fingers_04_01SHJnt/Human_l_Fingers_04_02SHJnt/Human_l_Fingers_04_03SHJnt/Human_l_Fingers_04_04SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Thumb_01_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Thumb_01_01SHJnt/Human_l_Thumb_01_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Thumb_01_01SHJnt/Human_l_Thumb_01_02SHJnt/Human_l_Thumb_01_03SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_l_Arm_ClavicleSHJnt/Human_l_Arm_ShoulderSHJnt/Human_l_Arm_ElbowSHJnt/Human_l_Arm_WristSHJnt/Human_l_Thumb_01_01SHJnt/Human_l_Thumb_01_02SHJnt/Human_l_Thumb_01_03SHJnt/Human_l_Thumb_01_04SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Blaster
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_01_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_01_01SHJnt/Human_r_Fingers_01_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_01_01SHJnt/Human_r_Fingers_01_02SHJnt/Human_r_Fingers_01_03SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_01_01SHJnt/Human_r_Fingers_01_02SHJnt/Human_r_Fingers_01_03SHJnt/Human_r_Fingers_01_04SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_02_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_02_01SHJnt/Human_r_Fingers_02_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_02_01SHJnt/Human_r_Fingers_02_02SHJnt/Human_r_Fingers_02_03SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_02_01SHJnt/Human_r_Fingers_02_02SHJnt/Human_r_Fingers_02_03SHJnt/Human_r_Fingers_02_04SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_03_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_03_01SHJnt/Human_r_Fingers_03_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_03_01SHJnt/Human_r_Fingers_03_02SHJnt/Human_r_Fingers_03_03SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_03_01SHJnt/Human_r_Fingers_03_02SHJnt/Human_r_Fingers_03_03SHJnt/Human_r_Fingers_03_04SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_04_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_04_01SHJnt/Human_r_Fingers_04_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_04_01SHJnt/Human_r_Fingers_04_02SHJnt/Human_r_Fingers_04_03SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Fingers_04_01SHJnt/Human_r_Fingers_04_02SHJnt/Human_r_Fingers_04_03SHJnt/Human_r_Fingers_04_04SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Thumb_01_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Thumb_01_01SHJnt/Human_r_Thumb_01_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Thumb_01_01SHJnt/Human_r_Thumb_01_02SHJnt/Human_r_Thumb_01_03SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Human_r_Thumb_01_01SHJnt/Human_r_Thumb_01_02SHJnt/Human_r_Thumb_01_03SHJnt/Human_r_Thumb_01_04SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_r_Arm_ClavicleSHJnt/Human_r_Arm_ShoulderSHJnt/Human_r_Arm_ElbowSHJnt/Human_r_Arm_WristSHJnt/Sword
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_Spine_TopSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_Spine_TopSHJnt/Human_Neck_01_01SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_Spine_TopSHJnt/Human_Neck_01_01SHJnt/Human_Neck_01_02SHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_Spine_TopSHJnt/Human_Neck_01_01SHJnt/Human_Neck_01_02SHJnt/Human_Head_TopSHJnt
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_Spine_TopSHJnt/Human_Neck_01_01SHJnt/Human_Neck_01_02SHJnt/Human_Head_TopSHJnt/C_Eyes
+    m_Weight: 1
+  - m_Path: Human/Human_SHJntGrp/Human_ROOTSHJnt/Human_Spine_01SHJnt/Human_Spine_02SHJnt/Human_Spine_TopSHJnt/Human_Neck_01_01SHJnt/Human_Neck_01_02SHJnt/Human_Head_TopSHJnt/C_Teeth
+    m_Weight: 1

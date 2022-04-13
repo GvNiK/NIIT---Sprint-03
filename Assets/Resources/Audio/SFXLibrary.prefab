@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9117240693014796037
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8454572703665690671}
+  - component: {fileID: 2335715783818498070}
+  m_Layer: 0
+  m_Name: SFXLibrary
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8454572703665690671
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9117240693014796037}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2335715783818498070
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9117240693014796037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 686c13309ecba6d47ad2217736580c0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - ID: SHOOT_DAMAGE
+    clip: {fileID: 8300000, guid: 39500a2281ea51d428379bd81e1b4b2e, type: 3}
+    volume: 1
+    pitchVariance: 0.079
+  - ID: SHOOT_EXPLOSIVE
+    clip: {fileID: 8300000, guid: 39500a2281ea51d428379bd81e1b4b2e, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: GUARD_JET_BOOST_LOOP
+    clip: {fileID: 8300000, guid: 15304b8f8f48e894c82fb35f724cd4fd, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: GUARD_KILLED
+    clip: {fileID: 8300000, guid: 67a89b300d9b11f42ab187e6fe27279b, type: 3}
+    volume: 1
+    pitchVariance: 0.165
+  - ID: PROJECTILE_DAMAGE_ENV
+    clip: {fileID: 8300000, guid: 872481c5fd7862c44be5fa09586ba996, type: 3}
+    volume: 1
+    pitchVariance: 0.096
+  - ID: PROJECTILE_EXPLOSION
+    clip: {fileID: 8300000, guid: bbbeefc98bde55f42a11aa1b856e1139, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: PROJECTILE_ENEMY
+    clip: {fileID: 8300000, guid: 39500a2281ea51d428379bd81e1b4b2e, type: 3}
+    volume: 1
+    pitchVariance: 0.042
+  - ID: MELEE_ENEMY
+    clip: {fileID: 8300000, guid: c01b62f3f0c9530489c5819ef1f8f7c0, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: MELEE
+    clip: {fileID: 8300000, guid: e3fca3b54790d7848a977e9af8fc18a6, type: 3}
+    volume: 1
+    pitchVariance: 0.216
+  - ID: PLAYER_DAMAGE
+    clip: {fileID: 8300000, guid: c01b62f3f0c9530489c5819ef1f8f7c0, type: 3}
+    volume: 1
+    pitchVariance: 0.142
+  - ID: PLAYER_KILLED
+    clip: {fileID: 8300000, guid: ad4e4cd446db2264bba80b0ebb89220e, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: FOOTSTEP
+    clip: {fileID: 8300000, guid: 643579d625cc0474685a109985980fcb, type: 3}
+    volume: 0.429
+    pitchVariance: 0.2
+  - ID: PANEL_BUTTON_PRESS
+    clip: {fileID: 8300000, guid: 36b478d1fae6fdb4c81ef3ba7ada7527, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: DOOR_OPEN
+    clip: {fileID: 8300000, guid: 79c818a8b41e18641be3b1827c4d69c0, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: PICKUP_GUN
+    clip: {fileID: 8300000, guid: da2687af67049254eb33323bcdfc287e, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: PICKUP_AMMO
+    clip: {fileID: 8300000, guid: dfbb646cf2dd6a84e9b3f72cac6daed1, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: PICKUP_SUPPLIES
+    clip: {fileID: 8300000, guid: da2687af67049254eb33323bcdfc287e, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: PICKUP_MELEE
+    clip: {fileID: 8300000, guid: da2687af67049254eb33323bcdfc287e, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: PICKUP_GUN
+    clip: {fileID: 8300000, guid: da2687af67049254eb33323bcdfc287e, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: EXIT_UNLOCKED
+    clip: {fileID: 8300000, guid: cb479e08d398fdd498dd74ba1ff6327e, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: GUARD_MORE_ALERT
+    clip: {fileID: 8300000, guid: 4499beb8d407da640a696e624b6a1f3c, type: 3}
+    volume: 1
+    pitchVariance: 0.14
+  - ID: GUARD_SHOOT
+    clip: {fileID: 8300000, guid: 39500a2281ea51d428379bd81e1b4b2e, type: 3}
+    volume: 1
+    pitchVariance: 0.16
+  - ID: GUARD_CREATED_BY_SPAWNER
+    clip: {fileID: 8300000, guid: aa83face366469143ace8f0f0e63a6c2, type: 3}
+    volume: 1
+    pitchVariance: 0
+  - ID: BUTTON_CLICK
+    clip: {fileID: 8300000, guid: 10bd78228ca3669428c5111ac1dc304e, type: 3}
+    volume: 0.171
+    pitchVariance: 0
+  - ID: LEVEL_COMPLETE
+    clip: {fileID: 8300000, guid: 3a6f149ada5b37a4ca2b6a29c2f36361, type: 3}
+    volume: 0.5
+    pitchVariance: 0
+  - ID: LEVEL_FAIL
+    clip: {fileID: 8300000, guid: 848da72248374d6439d5bc5cc70badc6, type: 3}
+    volume: 0.1
+    pitchVariance: 0

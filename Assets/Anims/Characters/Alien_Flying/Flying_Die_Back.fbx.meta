@@ -1,0 +1,1187 @@
+fileFormatVersion: 2
+guid: 6cc9dfe0fac0ec744abc3b032315ecdf
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 6973197660216199974
+    second: Flying_Die_Back
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Die_Back' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Alien_Flying_Spine_01SHJnt' has translation
+      animation that will be discarded.\n\t'Alien_Flying_Spine_02SHJnt' has translation
+      animation that will be discarded.\n\t'Alien_Flying_Spine_TopSHJnt' has translation
+      animation that will be discarded.\n\t'Alien_Flying_l_Arm_ClavicleSHJnt' has
+      translation animation that will be discarded.\n\t'Alien_Flying_r_Arm_ClavicleSHJnt'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Flying_Die_Back
+      takeName: Die_Back
+      internalID: 0
+      firstFrame: 425
+      lastFrame: 454
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Alien_Flying
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_l_Leg_HipSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_l_Leg_HipSHJnt/Alien_Flying_l_Leg_KneeSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_l_Leg_HipSHJnt/Alien_Flying_l_Leg_KneeSHJnt/Alien_Flying_l_Leg_AnkleSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_l_Leg_HipSHJnt/Alien_Flying_l_Leg_KneeSHJnt/Alien_Flying_l_Leg_AnkleSHJnt/Alien_Flying_l_Leg_BallSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_l_Leg_HipSHJnt/Alien_Flying_l_Leg_KneeSHJnt/Alien_Flying_l_Leg_AnkleSHJnt/Alien_Flying_l_Leg_BallSHJnt/Alien_Flying_l_Leg_ToeSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_r_Leg_HipSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_r_Leg_HipSHJnt/Alien_Flying_r_Leg_KneeSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_r_Leg_HipSHJnt/Alien_Flying_r_Leg_KneeSHJnt/Alien_Flying_r_Leg_AnkleSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_r_Leg_HipSHJnt/Alien_Flying_r_Leg_KneeSHJnt/Alien_Flying_r_Leg_AnkleSHJnt/Alien_Flying_r_Leg_BallSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_r_Leg_HipSHJnt/Alien_Flying_r_Leg_KneeSHJnt/Alien_Flying_r_Leg_AnkleSHJnt/Alien_Flying_r_Leg_BallSHJnt/Alien_Flying_r_Leg_ToeSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_01_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_01_01SHJnt/Alien_Flying_l_Fingers_01_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_01_01SHJnt/Alien_Flying_l_Fingers_01_02SHJnt/Alien_Flying_l_Fingers_01_03SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_02_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_02_01SHJnt/Alien_Flying_l_Fingers_02_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_02_01SHJnt/Alien_Flying_l_Fingers_02_02SHJnt/Alien_Flying_l_Fingers_02_03SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_03_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_03_01SHJnt/Alien_Flying_l_Fingers_03_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_03_01SHJnt/Alien_Flying_l_Fingers_03_02SHJnt/Alien_Flying_l_Fingers_03_03SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_04_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_04_01SHJnt/Alien_Flying_l_Fingers_04_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Fingers_04_01SHJnt/Alien_Flying_l_Fingers_04_02SHJnt/Alien_Flying_l_Fingers_04_03SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Thumb_01_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Thumb_01_01SHJnt/Alien_Flying_l_Thumb_01_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_l_Arm_ClavicleSHJnt/Alien_Flying_l_Arm_ShoulderSHJnt/Alien_Flying_l_Arm_ElbowSHJnt/Alien_Flying_l_Arm_WristSHJnt/Alien_Flying_l_Thumb_01_01SHJnt/Alien_Flying_l_Thumb_01_02SHJnt/Alien_Flying_l_Thumb_01_03SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_01_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_01_01SHJnt/Alien_Flying_r_Fingers_01_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_01_01SHJnt/Alien_Flying_r_Fingers_01_02SHJnt/Alien_Flying_r_Fingers_01_03SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_02_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_02_01SHJnt/Alien_Flying_r_Fingers_02_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_02_01SHJnt/Alien_Flying_r_Fingers_02_02SHJnt/Alien_Flying_r_Fingers_02_03SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_03_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_03_01SHJnt/Alien_Flying_r_Fingers_03_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_03_01SHJnt/Alien_Flying_r_Fingers_03_02SHJnt/Alien_Flying_r_Fingers_03_03SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_04_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_04_01SHJnt/Alien_Flying_r_Fingers_04_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Fingers_04_01SHJnt/Alien_Flying_r_Fingers_04_02SHJnt/Alien_Flying_r_Fingers_04_03SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Thumb_01_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Thumb_01_01SHJnt/Alien_Flying_r_Thumb_01_02SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_r_Arm_ClavicleSHJnt/Alien_Flying_r_Arm_ShoulderSHJnt/Alien_Flying_r_Arm_ElbowSHJnt/Alien_Flying_r_Arm_WristSHJnt/Alien_Flying_r_Thumb_01_01SHJnt/Alien_Flying_r_Thumb_01_02SHJnt/Alien_Flying_r_Thumb_01_03SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_Spine_TopSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_Spine_TopSHJnt/Alien_Flying_Neck_01_01SHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/Alien_Flying_Spine_02SHJnt/Alien_Flying_Spine_TopSHJnt/Alien_Flying_Neck_01_01SHJnt/Alien_Flying_Head_TopSHJnt
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/polySurface11
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/polySurface11/polySurface2
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/polySurface11/polySurface3
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/polySurface11/polySurface4
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/polySurface11/polySurface7
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/polySurface11/polySurface8
+        weight: 1
+      - path: Alien_Flying/Alien_Flying_SHJntGrp/Alien_Flying_ROOTSHJnt/Alien_Flying_Spine_01SHJnt/polySurface11/polySurface10
+        weight: 1
+      - path: Geom
+        weight: 0
+      - path: Geom/Face
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 424.8
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Alien_Flying_ROOTSHJnt
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Leg_HipSHJnt
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Leg_HipSHJnt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Leg_KneeSHJnt
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Leg_KneeSHJnt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Leg_AnkleSHJnt
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Leg_AnkleSHJnt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_Spine_01SHJnt
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_Spine_02SHJnt
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_Spine_TopSHJnt
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_Neck_01_01SHJnt
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Arm_ClavicleSHJnt
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Arm_ClavicleSHJnt
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Arm_ShoulderSHJnt
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Arm_ShoulderSHJnt
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Arm_ElbowSHJnt
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Arm_ElbowSHJnt
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Arm_WristSHJnt
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Arm_WristSHJnt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Leg_BallSHJnt
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Leg_BallSHJnt
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Thumb_01_01SHJnt
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Thumb_01_02SHJnt
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Thumb_01_03SHJnt
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_01_01SHJnt
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_01_02SHJnt
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_01_03SHJnt
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_02_01SHJnt
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_02_02SHJnt
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_02_03SHJnt
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_03_01SHJnt
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_03_02SHJnt
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_03_03SHJnt
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_04_01SHJnt
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_04_02SHJnt
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_l_Fingers_04_03SHJnt
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Thumb_01_01SHJnt
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Thumb_01_02SHJnt
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Thumb_01_03SHJnt
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_01_01SHJnt
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_01_02SHJnt
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_01_03SHJnt
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_02_01SHJnt
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_02_02SHJnt
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_02_03SHJnt
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_03_01SHJnt
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_03_02SHJnt
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_03_03SHJnt
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_04_01SHJnt
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_04_02SHJnt
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Alien_Flying_r_Fingers_04_03SHJnt
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Alien_Flying(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Geom
+      parentName: Alien_Flying(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Face
+      parentName: Geom
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: wings1
+      parentName: Geom
+      position: {x: -0, y: 1.3521206, z: -0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface1
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform15
+      parentName: polySurface1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform16
+      parentName: polySurface3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform12
+      parentName: polySurface5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface6
+      parentName: wings1
+      position: {x: 0.43442312, y: 0.33132735, z: -0.21363515}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform14
+      parentName: polySurface6
+      position: {x: -0.43442312, y: -1.6834478, z: 0.3935308}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface11
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform13
+      parentName: polySurface11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface13
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform11
+      parentName: polySurface13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface14
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform8
+      parentName: polySurface14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface15
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform7
+      parentName: polySurface15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface16
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform9
+      parentName: polySurface16
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface17
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform6
+      parentName: polySurface17
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface18
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform10
+      parentName: polySurface18
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface19
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform5
+      parentName: polySurface19
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface20
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface21
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface22
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface23
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface24
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface25
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface26
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform1
+      parentName: wings1
+      position: {x: -0, y: -1.3521206, z: 0.17989567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Blendshapes
+      parentName: Alien_Flying(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying
+      parentName: Alien_Flying(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_SHJntGrp
+      parentName: Alien_Flying
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_ROOTSHJnt
+      parentName: Alien_Flying_SHJntGrp
+      position: {x: 0, y: 1.0567988, z: 0}
+      rotation: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Leg_HipSHJnt
+      parentName: Alien_Flying_ROOTSHJnt
+      position: {x: 0.093612544, y: -7.81326e-18, z: -0.097632654}
+      rotation: {x: -0.013483088, y: -0.7051397, z: 0.708394, w: 0.027824499}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Leg_KneeSHJnt
+      parentName: Alien_Flying_l_Leg_HipSHJnt
+      position: {x: -0.4634431, y: 8.8817837e-17, z: -2.1316282e-16}
+      rotation: {x: 0, y: -0.13710245, z: -0, w: 0.9905569}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Leg_AnkleSHJnt
+      parentName: Alien_Flying_l_Leg_KneeSHJnt
+      position: {x: -0.37796423, y: -2.1316282e-16, z: 2.704453e-10}
+      rotation: {x: -0.0008890521, y: 0.10810356, z: 0.010360636, w: 0.99408525}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Leg_BallSHJnt
+      parentName: Alien_Flying_l_Leg_AnkleSHJnt
+      position: {x: -0.103526264, y: -1.8761702e-12, z: 0.10815935}
+      rotation: {x: -0, y: 0.70710665, z: 0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Leg_ToeSHJnt
+      parentName: Alien_Flying_l_Leg_BallSHJnt
+      position: {x: -0.12690897, y: -1.8531665e-12, z: 4.07121e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Leg_HipSHJnt
+      parentName: Alien_Flying_ROOTSHJnt
+      position: {x: 0.093612544, y: -7.7420706e-18, z: 0.097632654}
+      rotation: {x: -0.7051397, y: 0.013483088, z: -0.027824499, w: 0.708394}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Leg_KneeSHJnt
+      parentName: Alien_Flying_r_Leg_HipSHJnt
+      position: {x: 0.4634431, y: 3.907985e-16, z: 1.7497114e-15}
+      rotation: {x: 0, y: -0.13710244, z: -0, w: 0.9905569}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Leg_AnkleSHJnt
+      parentName: Alien_Flying_r_Leg_KneeSHJnt
+      position: {x: 0.37796423, y: 5.506706e-16, z: -5.383249e-14}
+      rotation: {x: -0.0008890521, y: 0.10810356, z: 0.010360636, w: 0.99408525}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Leg_BallSHJnt
+      parentName: Alien_Flying_r_Leg_AnkleSHJnt
+      position: {x: 0.103526264, y: 4.440892e-16, z: -0.10815935}
+      rotation: {x: -0, y: 0.70710665, z: 0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Leg_ToeSHJnt
+      parentName: Alien_Flying_r_Leg_BallSHJnt
+      position: {x: 0.12690897, y: 4.973799e-16, z: -1.8087535e-14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_Spine_01SHJnt
+      parentName: Alien_Flying_ROOTSHJnt
+      position: {x: -0.11417142, y: 0.006134294, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface11 1
+      parentName: Alien_Flying_Spine_01SHJnt
+      position: {x: -0.29382718, y: 0.3983852, z: 0.0000007629394}
+      rotation: {x: 0.4234639, y: -0.56628466, z: 0.4234639, w: 0.56628466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface7
+      parentName: polySurface11 1
+      position: {x: -0.43058953, y: 0.17321983, z: 0.007339608}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3 1
+      parentName: polySurface11 1
+      position: {x: 0.43057877, y: 0.17329116, z: 0.013562298}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2
+      parentName: polySurface11 1
+      position: {x: -0.0000007629394, y: -1.5140305, z: 0.33007488}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface4
+      parentName: polySurface11 1
+      position: {x: -0.0000007629394, y: -1.5140305, z: 0.33007488}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface10
+      parentName: polySurface11 1
+      position: {x: -0.0000007629394, y: -1.5140305, z: 0.33007488}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface8
+      parentName: polySurface11 1
+      position: {x: -0.0000007629394, y: -1.5140305, z: 0.33007488}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_Spine_02SHJnt
+      parentName: Alien_Flying_Spine_01SHJnt
+      position: {x: -0.09102889, y: 0.016394408, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Arm_ClavicleSHJnt
+      parentName: Alien_Flying_Spine_02SHJnt
+      position: {x: -0.0541937, y: -0.07979082, z: -0.03604216}
+      rotation: {x: 0.41041437, y: -0.41041437, z: 0.5758125, w: 0.5758125}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Arm_ShoulderSHJnt
+      parentName: Alien_Flying_l_Arm_ClavicleSHJnt
+      position: {x: -0.09804362, y: 0, z: -0.07436967}
+      rotation: {x: -0, y: -0.1273479, z: -0, w: 0.9918581}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Arm_ElbowSHJnt
+      parentName: Alien_Flying_l_Arm_ShoulderSHJnt
+      position: {x: -0.27860802, y: 0, z: -1.5987211e-16}
+      rotation: {x: -0, y: -0.004104659, z: -0, w: 0.9999916}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Arm_WristSHJnt
+      parentName: Alien_Flying_l_Arm_ElbowSHJnt
+      position: {x: -0.22800905, y: -5.684342e-16, z: 1.2434498e-16}
+      rotation: {x: 0, y: -0.08183994, z: -0, w: 0.9966455}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_01_01SHJnt
+      parentName: Alien_Flying_l_Arm_WristSHJnt
+      position: {x: -0.17712095, y: -0.0051788627, z: 0.04759993}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_01_02SHJnt
+      parentName: Alien_Flying_l_Fingers_01_01SHJnt
+      position: {x: -0.05492652, y: 0, z: -0.000027211157}
+      rotation: {x: 0.00011547096, y: -0.00019729137, z: -0.2330716, w: 0.97245955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_01_03SHJnt
+      parentName: Alien_Flying_l_Fingers_01_02SHJnt
+      position: {x: -0.033198193, y: -0.019483272, z: 2.2204459e-17}
+      rotation: {x: 0, y: 0, z: 0.27187538, w: 0.9623325}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_02_01SHJnt
+      parentName: Alien_Flying_l_Arm_WristSHJnt
+      position: {x: -0.1759411, y: -0.0051788627, z: 0.00644958}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_02_02SHJnt
+      parentName: Alien_Flying_l_Fingers_02_01SHJnt
+      position: {x: -0.05918778, y: 0, z: -0.00051445764}
+      rotation: {x: 0.0022195466, y: -0.0034294943, z: -0.25537464, w: 0.96683353}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_02_03SHJnt
+      parentName: Alien_Flying_l_Fingers_02_02SHJnt
+      position: {x: -0.035596248, y: -0.023039924, z: 7.105427e-17}
+      rotation: {x: 0, y: 0, z: 0.27187538, w: 0.9623325}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_03_01SHJnt
+      parentName: Alien_Flying_l_Arm_WristSHJnt
+      position: {x: -0.17129007, y: -0.0051788627, z: -0.03441091}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_03_02SHJnt
+      parentName: Alien_Flying_l_Fingers_03_01SHJnt
+      position: {x: -0.047542114, y: 2.842171e-16, z: -0.0009561919}
+      rotation: {x: 0.0034554084, y: -0.00791344, z: -0.1718037, w: 0.98509336}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_03_03SHJnt
+      parentName: Alien_Flying_l_Fingers_03_02SHJnt
+      position: {x: -0.040240627, y: -0.017570773, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0.21689156, w: 0.9761957}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_04_01SHJnt
+      parentName: Alien_Flying_l_Arm_WristSHJnt
+      position: {x: -0.16200495, y: -0.0051788627, z: -0.06734212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_04_02SHJnt
+      parentName: Alien_Flying_l_Fingers_04_01SHJnt
+      position: {x: -0.03782487, y: 5.684342e-16, z: 0.00095837517}
+      rotation: {x: -0.0038505695, y: 0.009827702, z: -0.15198009, w: 0.9883272}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Fingers_04_03SHJnt
+      parentName: Alien_Flying_l_Fingers_04_02SHJnt
+      position: {x: -0.045632984, y: -0.017878873, z: 1.4210854e-16}
+      rotation: {x: 0, y: 0, z: 0.21537241, w: 0.976532}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Thumb_01_01SHJnt
+      parentName: Alien_Flying_l_Arm_WristSHJnt
+      position: {x: -0.041548193, y: 0.003098533, z: 0.03496103}
+      rotation: {x: 0.07257771, y: 0.47333422, z: 0.060045384, w: 0.875832}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Thumb_01_02SHJnt
+      parentName: Alien_Flying_l_Thumb_01_01SHJnt
+      position: {x: -0.043454707, y: 0.00050751015, z: -0.004028284}
+      rotation: {x: -0.00030524284, y: -0.005324721, z: 0.0026219077, w: 0.9999823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_l_Thumb_01_03SHJnt
+      parentName: Alien_Flying_l_Thumb_01_02SHJnt
+      position: {x: -0.04633671, y: 0.0024799863, z: -0.00035793355}
+      rotation: {x: 0, y: 0.039560556, z: -0, w: 0.9992172}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_Spine_TopSHJnt
+      parentName: Alien_Flying_Spine_02SHJnt
+      position: {x: -0.081206135, y: -0.0074245026, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_Neck_01_01SHJnt
+      parentName: Alien_Flying_Spine_TopSHJnt
+      position: {x: -0.13044871, y: 0.024553524, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Glass
+      parentName: Alien_Flying_Neck_01_01SHJnt
+      position: {x: 0.14807013, y: -0.014423389, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_Head_TopSHJnt
+      parentName: Alien_Flying_Neck_01_01SHJnt
+      position: {x: -0.34167826, y: -0.05792916, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Arm_ClavicleSHJnt
+      parentName: Alien_Flying_Spine_02SHJnt
+      position: {x: -0.0541937, y: -0.07979082, z: 0.03604216}
+      rotation: {x: 0.41041437, y: 0.41041437, z: 0.5758125, w: -0.5758125}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Arm_ShoulderSHJnt
+      parentName: Alien_Flying_r_Arm_ClavicleSHJnt
+      position: {x: 0.09804362, y: 8.5265126e-16, z: 0.07436967}
+      rotation: {x: -0, y: -0.12734793, z: -0, w: 0.9918581}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Arm_ElbowSHJnt
+      parentName: Alien_Flying_r_Arm_ShoulderSHJnt
+      position: {x: 0.27860802, y: -1.1368684e-15, z: -1.6431301e-16}
+      rotation: {x: -0, y: -0.0041046734, z: -0, w: 0.99999166}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Arm_WristSHJnt
+      parentName: Alien_Flying_r_Arm_ElbowSHJnt
+      position: {x: 0.22800905, y: 8.5265126e-16, z: 7.105427e-17}
+      rotation: {x: 0, y: -0.08183994, z: -0, w: 0.9966455}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Blaster
+      parentName: Alien_Flying_r_Arm_WristSHJnt
+      position: {x: 0.12993692, y: 0.018366482, z: -0.03224055}
+      rotation: {x: 0.5668833, y: -0.438581, z: 0.55541635, w: -0.42166656}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_01_01SHJnt
+      parentName: Alien_Flying_r_Arm_WristSHJnt
+      position: {x: 0.17712095, y: 0.0051788627, z: -0.04759993}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_01_02SHJnt
+      parentName: Alien_Flying_r_Fingers_01_01SHJnt
+      position: {x: 0.05492652, y: -5.684342e-16, z: 0.000027211157}
+      rotation: {x: 0.00011527352, y: -0.00019604713, z: -0.23307191, w: 0.97245955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_01_03SHJnt
+      parentName: Alien_Flying_r_Fingers_01_02SHJnt
+      position: {x: 0.033198193, y: 0.019483272, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0.27187538, w: 0.9623325}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_02_01SHJnt
+      parentName: Alien_Flying_r_Arm_WristSHJnt
+      position: {x: 0.1759411, y: 0.0051788627, z: -0.00644958}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_02_02SHJnt
+      parentName: Alien_Flying_r_Fingers_02_01SHJnt
+      position: {x: 0.05918778, y: -8.5265126e-16, z: 0.00051445764}
+      rotation: {x: 0.0022195016, y: -0.0034286375, z: -0.25537536, w: 0.96683335}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_02_03SHJnt
+      parentName: Alien_Flying_r_Fingers_02_02SHJnt
+      position: {x: 0.035596248, y: 0.023039924, z: -3.9968027e-17}
+      rotation: {x: 0, y: 0, z: 0.27187538, w: 0.9623325}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_03_01SHJnt
+      parentName: Alien_Flying_r_Arm_WristSHJnt
+      position: {x: 0.17129007, y: 0.0051788627, z: 0.03441091}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_03_02SHJnt
+      parentName: Alien_Flying_r_Fingers_03_01SHJnt
+      position: {x: 0.047542114, y: 0, z: 0.0009561919}
+      rotation: {x: 0.003455399, y: -0.007913283, z: -0.17180392, w: 0.9850934}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_03_03SHJnt
+      parentName: Alien_Flying_r_Fingers_03_02SHJnt
+      position: {x: 0.040240627, y: 0.017570773, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0.21689156, w: 0.9761957}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_04_01SHJnt
+      parentName: Alien_Flying_r_Arm_WristSHJnt
+      position: {x: 0.16200495, y: 0.0051788627, z: 0.06734212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_04_02SHJnt
+      parentName: Alien_Flying_r_Fingers_04_01SHJnt
+      position: {x: 0.03782487, y: -8.5265126e-16, z: -0.00095837517}
+      rotation: {x: -0.0038505788, y: 0.009827613, z: -0.15197968, w: 0.9883273}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Fingers_04_03SHJnt
+      parentName: Alien_Flying_r_Fingers_04_02SHJnt
+      position: {x: 0.045632984, y: 0.017878873, z: 1.7763568e-17}
+      rotation: {x: 0, y: 0, z: 0.21537241, w: 0.976532}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Thumb_01_01SHJnt
+      parentName: Alien_Flying_r_Arm_WristSHJnt
+      position: {x: 0.041548193, y: -0.003098533, z: -0.03496103}
+      rotation: {x: 0.07257758, y: 0.47333375, z: 0.060045145, w: 0.8758323}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Thumb_01_02SHJnt
+      parentName: Alien_Flying_r_Thumb_01_01SHJnt
+      position: {x: 0.043454707, y: -0.00050751015, z: 0.004028284}
+      rotation: {x: -0.00030519805, y: -0.0053248387, z: 0.0026218847, w: 0.9999823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Alien_Flying_r_Thumb_01_03SHJnt
+      parentName: Alien_Flying_r_Thumb_01_02SHJnt
+      position: {x: 0.04633671, y: -0.0024799863, z: 0.00035793355}
+      rotation: {x: 0, y: 0.039560556, z: -0, w: 0.9992172}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 90c3db36b7795f944a37e77a677ad856,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
